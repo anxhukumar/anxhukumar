@@ -5,7 +5,7 @@ I am a Backend Developer specialized in Go. I initially worked with JavaScript b
 This is my current tech stack:
 
 - **Languages:** Go, Python
-- **Databases:** SQL, sqlc (Type-safe SQL), goose (Migrations)
+- **Databases & Tooling:** SQL, sqlc (Type-safe SQL), goose (Migrations)
 - **Containerization:** Docker
 - **CI/CD:** GitHub Actions
 - **Cloud:** AWS (EC2, S3, CloudFront, SES)
