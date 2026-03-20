@@ -1,7 +1,6 @@
 # Hi 👋
 
-I am a Backend Developer specialized in Go. I initially worked with JavaScript but later chose Go — I found it to be straightforward, simple, and yet powerful enough to build serious systems. I have a bachelor's degree in Business Administration, though somewhere during college I developed a deep interest in programming and have stuck to it ever since.
-
+I am a business graduate who taught myself backend engineering. I build backend services and APIs in Go, focusing on clean design and practical problem solving. I gravitated towards Go for its simplicity, strong standard library, and performance characteristics.
 This is my current tech stack:
 
 - **Languages:** Go, Python
