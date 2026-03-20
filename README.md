@@ -1,6 +1,7 @@
 # Hi 👋
 
 I am a business graduate who taught myself backend engineering. I build backend services and APIs in Go, focusing on clean design and practical problem solving. I gravitated towards Go for its simplicity, strong standard library, and performance characteristics.
+
 This is my current tech stack:
 
 - **Languages:** Go, Python
