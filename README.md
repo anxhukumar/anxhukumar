@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a Backend Developer specializing in Go. I build backend services and APIs focusing on clean design, performance and practical problem solving.
+I’m a Backend Engineer specializing in Go, distributed integrations, and high-concurrency architectures. Coming from a fast-paced startup environment, I love the challenge of taking backend features from early-stage POCs directly through to live client production. My core focus is on building reliable, resilient pipelines and optimizing execution speed to solve real operational bottlenecks.
 
 This is my current tech stack:
 
