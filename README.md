@@ -5,6 +5,7 @@ I’m a Backend Engineer specializing in Go, distributed integrations, and high-
 This is my current tech stack:
 
 - **Languages:** Go, Python
+- **APIs & RPC:** gRPC, Protocol Buffers (Protobuf), REST
 - **Databases & Tooling:** SQL, sqlc (Type-safe SQL), goose (Migrations)
 - **Containerization:** Docker
 - **CI/CD:** GitHub Actions
