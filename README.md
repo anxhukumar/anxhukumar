@@ -1,6 +1,6 @@
 # Hi 👋
 
-I’m a Backend Engineer specializing in Go, distributed integrations, and high-concurrency architectures. Coming from a fast-paced startup environment, I love the challenge of taking backend features from early-stage POCs directly through to live client production. My core focus is on building reliable, resilient pipelines and optimizing execution speed to solve real operational bottlenecks.
+I'm Anshu, a backend developer. I mostly write Go these days and like building backend stuff.
 
 This is my current tech stack:
 
