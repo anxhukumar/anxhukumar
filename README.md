@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Anshu, a backend developer. I mostly write Go these days and like building backend stuff.
+I'm Anshu, a backend engineer. I mostly write Go these days and really enjoy designing and building systems.
 
 This is my current tech stack:
 
